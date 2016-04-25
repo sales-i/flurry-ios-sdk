@@ -23,14 +23,12 @@
 /* End PBXAggregateTarget section */
 
 /* Begin PBXBuildFile section */
-		FC38235F1BAD3300008BF290 /* Empty.m in Sources */ = {isa = PBXBuildFile; fileRef = FC38235D1BAD3300008BF290 /* Empty.m */; settings = {ASSET_TAGS = (); }; };
 		FC3823601BAD335C008BF290 /* FlurrySDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FCD374271BAC676F0034AD3B /* FlurrySDK.framework */; };
 		FC3823621BAD336C008BF290 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FC3823611BAD336C008BF290 /* AVFoundation.framework */; };
 		FC3823641BAD3378008BF290 /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FC3823631BAD3378008BF290 /* MediaPlayer.framework */; };
 		FC3823661BAD3380008BF290 /* CoreMedia.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FC3823651BAD3380008BF290 /* CoreMedia.framework */; };
 		FC38236A1BAD33A8008BF290 /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FC3823691BAD33A8008BF290 /* AdSupport.framework */; };
 		FC38236C1BAD33BF008BF290 /* libz.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = FC38236B1BAD33BF008BF290 /* libz.tbd */; };
-		FC38236F1BAD345C008BF290 /* Empty.m in Sources */ = {isa = PBXBuildFile; fileRef = FC38236E1BAD345C008BF290 /* Empty.m */; settings = {ASSET_TAGS = (); }; };
 		FC3823701BAD34EC008BF290 /* libFlurryAds_7.1.1.a in Frameworks */ = {isa = PBXBuildFile; fileRef = FCD374AE1BAC6A160034AD3B /* libFlurryAds_7.1.1.a */; };
 		FC3823751BAD3520008BF290 /* FlurryAdsSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FCD374871BAC69060034AD3B /* FlurryAdsSDK.framework */; };
 		FCD3742B1BAC676F0034AD3B /* Flurry.h in Headers */ = {isa = PBXBuildFile; fileRef = FCD3742A1BAC676F0034AD3B /* Flurry.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -46,14 +44,12 @@
 		FCD374BA1BAC6A160034AD3B /* FlurryAdNativeAsset.h in Headers */ = {isa = PBXBuildFile; fileRef = FCD374AB1BAC6A160034AD3B /* FlurryAdNativeAsset.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FCD374BB1BAC6A160034AD3B /* FlurryAdNativeDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = FCD374AC1BAC6A160034AD3B /* FlurryAdNativeDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FCD374BC1BAC6A160034AD3B /* FlurryAdNativeStyle.h in Headers */ = {isa = PBXBuildFile; fileRef = FCD374AD1BAC6A160034AD3B /* FlurryAdNativeStyle.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		FCD374BD1BAC6A160034AD3B /* libFlurryAds_7.1.1.a in Frameworks */ = {isa = PBXBuildFile; fileRef = FCD374AE1BAC6A160034AD3B /* libFlurryAds_7.1.1.a */; settings = {ASSET_TAGS = (); }; };
+		FCD374BD1BAC6A160034AD3B /* libFlurryAds_7.1.1.a in Frameworks */ = {isa = PBXBuildFile; fileRef = FCD374AE1BAC6A160034AD3B /* libFlurryAds_7.1.1.a */; };
 		FCD374BE1BAC6A160034AD3B /* FlurryAdError.h in Headers */ = {isa = PBXBuildFile; fileRef = FCD374B01BAC6A160034AD3B /* FlurryAdError.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FCD374BF1BAC6A160034AD3B /* FlurryAdTargeting.h in Headers */ = {isa = PBXBuildFile; fileRef = FCD374B11BAC6A160034AD3B /* FlurryAdTargeting.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FCD374C01BAC6A160034AD3B /* FlurryAdDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = FCD374B31BAC6A160034AD3B /* FlurryAdDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FCD374C11BAC6A160034AD3B /* FlurryAds.h in Headers */ = {isa = PBXBuildFile; fileRef = FCD374B41BAC6A160034AD3B /* FlurryAds.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		FCD374C51BAC6A2F0034AD3B /* Empty.m in Sources */ = {isa = PBXBuildFile; fileRef = FCD374C21BAC6A2F0034AD3B /* Empty.m */; settings = {ASSET_TAGS = (); }; };
 		FCD374C61BAC6A2F0034AD3B /* FlurryWatch.h in Headers */ = {isa = PBXBuildFile; fileRef = FCD374C31BAC6A2F0034AD3B /* FlurryWatch.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		FCD374C71BAC6A2F0034AD3B /* libFlurry_7.1.1.a in Frameworks */ = {isa = PBXBuildFile; fileRef = FCD374C41BAC6A2F0034AD3B /* libFlurry_7.1.1.a */; settings = {ASSET_TAGS = (); }; };
 		FCD374CA1BAC6B240034AD3B /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FCD374C91BAC6B240034AD3B /* SystemConfiguration.framework */; settings = {ATTRIBUTES = (Required, ); }; };
 		FCD3751F1BAD1B520034AD3B /* FlurrySDK.h in Headers */ = {isa = PBXBuildFile; fileRef = FCD375081BAC76BF0034AD3B /* FlurrySDK.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
@@ -129,9 +125,7 @@
 		FCD374B11BAC6A160034AD3B /* FlurryAdTargeting.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FlurryAdTargeting.h; sourceTree = "<group>"; };
 		FCD374B31BAC6A160034AD3B /* FlurryAdDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FlurryAdDelegate.h; sourceTree = "<group>"; };
 		FCD374B41BAC6A160034AD3B /* FlurryAds.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FlurryAds.h; sourceTree = "<group>"; };
-		FCD374C21BAC6A2F0034AD3B /* Empty.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Empty.m; sourceTree = "<group>"; };
 		FCD374C31BAC6A2F0034AD3B /* FlurryWatch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FlurryWatch.h; sourceTree = "<group>"; };
-		FCD374C41BAC6A2F0034AD3B /* libFlurry_7.1.1.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libFlurry_7.1.1.a; sourceTree = "<group>"; };
 		FCD374C91BAC6B240034AD3B /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
 		FCD374D01BAC6CBC0034AD3B /* FlurrySDKVersion.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = FlurrySDKVersion.xcconfig; sourceTree = "<group>"; };
 		FCD375081BAC76BF0034AD3B /* FlurrySDK.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FlurrySDK.h; sourceTree = "<group>"; };
@@ -143,7 +137,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				FCD374CA1BAC6B240034AD3B /* SystemConfiguration.framework in Frameworks */,
-				FCD374C71BAC6A2F0034AD3B /* libFlurry_7.1.1.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -213,8 +206,6 @@
 				FCD3742A1BAC676F0034AD3B /* Flurry.h */,
 				FCD374C31BAC6A2F0034AD3B /* FlurryWatch.h */,
 				FCD375081BAC76BF0034AD3B /* FlurrySDK.h */,
-				FCD374C21BAC6A2F0034AD3B /* Empty.m */,
-				FCD374C41BAC6A2F0034AD3B /* libFlurry_7.1.1.a */,
 				FCD3742C1BAC676F0034AD3B /* Info.plist */,
 				FCD374CB1BAC6BB30034AD3B /* Frameworks */,
 			);
@@ -479,7 +470,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FCD374C51BAC6A2F0034AD3B /* Empty.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -487,7 +477,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FC38235F1BAD3300008BF290 /* Empty.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -495,7 +484,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FC38236F1BAD345C008BF290 /* Empty.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
