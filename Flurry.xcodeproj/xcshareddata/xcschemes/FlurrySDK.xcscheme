@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "FCD374261BAC676F0034AD3B"
+               BlueprintIdentifier = "E0B3BBA91CCE6D1700FB9BE7"
                BuildableName = "FlurrySDK.framework"
                BlueprintName = "FlurrySDK"
                ReferencedContainer = "container:Flurry.xcodeproj">
@@ -45,7 +45,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "FCD374261BAC676F0034AD3B"
+            BlueprintIdentifier = "E0B3BBA91CCE6D1700FB9BE7"
             BuildableName = "FlurrySDK.framework"
             BlueprintName = "FlurrySDK"
             ReferencedContainer = "container:Flurry.xcodeproj">
@@ -63,7 +63,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "FCD374261BAC676F0034AD3B"
+            BlueprintIdentifier = "E0B3BBA91CCE6D1700FB9BE7"
             BuildableName = "FlurrySDK.framework"
             BlueprintName = "FlurrySDK"
             ReferencedContainer = "container:Flurry.xcodeproj">
